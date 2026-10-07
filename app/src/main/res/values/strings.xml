@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Propinas</string>
+    <string name="titulo">Calculadora de propinas</string>
+    <string name="etiqueta_monto">Monto de la cuenta</string>
+    <string name="etiqueta_propina">Propina: %1$d%%</string>
+    <string name="etiqueta_personas">Personas</string>
+    <string name="etiqueta_redondear">Redondear total</string>
+    <string name="resultado_propina">Propina</string>
+    <string name="resultado_total">Total</string>
+    <string name="resultado_por_persona">Cada persona paga</string>
+    <string name="nivel_baja">Propina baja</string>
+    <string name="nivel_normal">Propina normal</string>
+    <string name="nivel_generosa">Propina generosa</string>
+    <string name="boton_mas">+</string>
+    <string name="boton_menos">-</string>
+    <string name="moneda">$%1$s</string>
 </resources>
